@@ -14,5 +14,5 @@ Updates:
 • Curl
 
 ```
-curl https://raw.githubusercontent.com/mtan93/udm-diags/main/basics.sh | bash
+curl https://raw.githubusercontent.com/mtan93/udm-diags/main/speedtestbasics.sh | bash
 ```
