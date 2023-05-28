@@ -1,6 +1,7 @@
 # udm-diags
 Repo for scripts used for personal network diagnostics directly on the UDM Pro/SE over SSH.
 
+### One liner Basic Speed Test Tools
 Installs:
 
 • Ookla Speed Test CLI
